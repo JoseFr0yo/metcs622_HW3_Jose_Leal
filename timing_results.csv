@@ -1,0 +1,4 @@
+Approach,Average time (ns)
+Regex search,87614
+Inverted index search,880
+Inverted index build + search,124442
